@@ -11,7 +11,7 @@
 //----------------------------------------------------------------------------------------
 $dbhost = "localhost";
 $dbuser = "replace";
-$dbpass = "creplace";
+$dbpass = "replace";
 $dbname = "replace";
 $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 
